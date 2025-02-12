@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product xsi:type="AccessoryItem">
+    <ProductId>1</ProductId>
+    <Name>Hat</Name>
+    <Price>19.99</Price>
+    <StockQuantity>100</StockQuantity>
+    <Size>M</Size>
+    <Color>Red</Color>
+    <Brand>CoolBrand</Brand>
+  </Product>
+  <Product xsi:type="ClothingItem">
+    <ProductId>2</ProductId>
+    <Name>T-Shirt</Name>
+    <Price>29.99</Price>
+    <StockQuantity>50</StockQuantity>
+    <Size>L</Size>
+    <Color>Blue</Color>
+    <Fabric>Cotton</Fabric>
+    <Brand>StyleBrand</Brand>
+  </Product>
+</ArrayOfProduct>

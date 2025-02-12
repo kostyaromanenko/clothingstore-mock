@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderId>1</OrderId>
+    <Date>2025-01-15T21:00:37.2977735+01:00</Date>
+  </Order>
+</ArrayOfOrder>

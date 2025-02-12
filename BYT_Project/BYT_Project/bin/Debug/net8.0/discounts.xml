@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDiscount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Discount>
+    <DiscountCode>SUMMER21</DiscountCode>
+    <Percentage>15</Percentage>
+    <ExpiryDate>2025-02-15T21:00:37.4222347+01:00</ExpiryDate>
+  </Discount>
+</ArrayOfDiscount>

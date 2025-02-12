@@ -1,1 +1,2 @@
-# clothingstore-mock
+# Group Project
+

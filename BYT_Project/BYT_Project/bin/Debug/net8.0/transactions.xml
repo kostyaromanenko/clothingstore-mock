@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTransaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transaction>
+    <TransactionId>1</TransactionId>
+    <TransactionDate>2025-01-15T21:00:37.4662908+01:00</TransactionDate>
+    <Amount>150.75</Amount>
+  </Transaction>
+</ArrayOfTransaction>

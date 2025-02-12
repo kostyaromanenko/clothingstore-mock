@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Store>
+    <StoreId>1</StoreId>
+    <StoreName>Fashion Store</StoreName>
+    <StoreLocation>Downtown</StoreLocation>
+    <StoreHours>9 AM - 9 PM</StoreHours>
+  </Store>
+</ArrayOfStore>
